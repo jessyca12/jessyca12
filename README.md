@@ -21,3 +21,6 @@ Atualmente, sou estagiária na **Compass UOL**, onde estou tendo a incrível opo
 Tenho uma grande paixão por resolver problemas e otimizar processos através da tecnologia. Acredito que a combinação de dados e inovação pode transformar realidades, e é isso que me motiva a aprender e evoluir a cada dia. Meu objetivo é crescer profissionalmente e contribuir para soluções que realmente façam a diferença.
 
 ---
+
+
+![snake gif](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
